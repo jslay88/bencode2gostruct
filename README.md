@@ -1,6 +1,10 @@
 # bencode2gostruct
 A simple utility to parse the fields from a bencode encoded file,
-into a go `struct`.
+into a Go `struct`.
+
+Check the 
+[Releases](https://github.com/jslay88/bencode2gostruct/releases)
+page for pre-built binary downloads.
 
 ```
 Usage of bencode2gostruct:
